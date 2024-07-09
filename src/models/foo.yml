@@ -9,3 +9,19 @@ sources:
       experts:
         users:
           - maciej.bukowski@y42.com
+  - name: foo
+    config:
+      y42:
+        apiVersion: v3
+    meta:
+      experts:
+        users:
+          - maciej.bukowski@y42.com
+  - name: foo
+    config:
+      y42:
+        apiVersion: v3
+    meta:
+      experts:
+        users:
+          - maciej.bukowski@y42.com
